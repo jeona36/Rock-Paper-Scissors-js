@@ -1,0 +1,24 @@
+#  Rock Paper Scissors
+
+A simple and interactive Rock Paper Scissors game built with JavaScript.
+
+##  Features
+
+* Play using buttons or keyboard (R / P / S)
+* Score tracking with localStorage
+* Reset confirmation system
+
+##  Tech
+
+* HTML
+* CSS
+* JavaScript
+
+##  Note
+
+This project was originally built following a tutorial, then redesigned and improved.
+
+## 📸 Screenshot
+
+[App screenshot](images/screenshot.png)
+
